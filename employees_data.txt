@@ -1,0 +1,17 @@
+FullTime|FT001|Nguyễn Văn An|0912345678|van.an@company.com|12000000.0|3
+FullTime|FT002|Trần Thị Bình|0923456789|thi.binh@company.com|15000000.0|5
+FullTime|FT003|Lê Văn Cường|0934567890|van.cuong@company.com|11500000.0|2
+FullTime|FT004|Phạm Thị Dung|0945678901|thi.dung@company.com|13000000.0|4
+PartTime|PT001|Hoàng Văn Em|0956789012|van.em@company.com|70000.0|80.0
+PartTime|PT002|Đỗ Thị Phương|0967890123|thi.phuong@company.com|75000.0|64.0
+PartTime|PT003|Vũ Văn Giang|0978901234|van.giang@company.com|80000.0|72.0
+PartTime|PT004|Bùi Thị Hoa|0989012345|thi.hoa@company.com|65000.0|90.0
+PartTime|PT005|Đặng Văn Ích|0990123456|van.ich@company.com|68000.0|85.0
+FullTime|FT005|Phan Văn Oanh|0934567892|van.oanh@company.com|14500000.0|4
+FullTime|FT006|Quách Thị Phúc|0945678903|thi.phuc@company.com|13500000.0|3
+PartTime|PT006|Trịnh Văn Quang|0956789014|van.quang@company.com|72000.0|76.0
+Manager|MN001|Tạ Thị Kim|0901234567|thi.kim@company.com|25000000.0|8|FT001;FT002;PT001
+Manager|MN002|Lý Văn Lâm|0912345670|van.lam@company.com|28000000.0|10|FT003;PT002;PT003
+Manager|MN003|Mai Thị Nga|0923456781|thi.nga@company.com|24000000.0|7|FT004;PT004;PT005
+Manager|M001|Hoàng Văn Em|0956789012|em@example.com|20000000|7|FT001;PT001
+Manager|M002|Trương Thị Phương|0967890123|phuong@example.com|22000000|8|FT002;PT002
